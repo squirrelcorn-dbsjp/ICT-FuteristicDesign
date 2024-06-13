@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="235.5498"
+   inkscape:export-ydpi="235.5498"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="SourceLogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.71713664"
+     inkscape:cx="380.68059"
+     inkscape:cy="246.11767"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="257.91589"
+       y="498.55387"
+       width="44.137117"
+       height="12.261218"
+       id="rect9" />
+    <rect
+       x="239.23265"
+       y="483.35671"
+       width="358.75638"
+       height="226.08902"
+       id="rect8" />
+    <rect
+       x="204.12123"
+       y="583.84314"
+       width="99.348003"
+       height="23.89603"
+       id="rect7" />
+    <rect
+       x="156.53071"
+       y="563.42231"
+       width="518.893"
+       height="247.91518"
+       id="rect6" />
+    <rect
+       x="111.36955"
+       y="433.83251"
+       width="298.58871"
+       height="118.48335"
+       id="rect5" />
+    <rect
+       x="159.15072"
+       y="399.9739"
+       width="158.13758"
+       height="16.755001"
+       id="rect3" />
+    <rect
+       x="64.568849"
+       y="386.81392"
+       width="317.0105"
+       height="152.72869"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke-width:0.253668"
+       id="rect1"
+       width="50.000076"
+       height="50"
+       x="0"
+       y="0"
+       ry="6.7462006"
+       inkscape:export-filename="logo.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3"
+       style="fill:#e9c6af;white-space:pre;shape-inside:url(#rect3)" />
+    <rect
+       style="fill:#f9f9f9;stroke-width:0.303389"
+       id="rect4"
+       width="33.707756"
+       height="3.9647012"
+       x="-17.699125"
+       y="18.836349"
+       ry="1.9823506"
+       transform="matrix(0.70769598,-0.7065171,0.70041022,0.71374051,0,0)"
+       inkscape:transform-center-x="-0.58367995"
+       inkscape:transform-center-y="0.15491714" />
+    <rect
+       style="fill:#f9f9f9;stroke-width:0.303389"
+       id="rect4-1"
+       width="33.707756"
+       height="3.9647012"
+       x="-52.74456"
+       y="-16.36377"
+       ry="1.9823506"
+       transform="matrix(-0.70769598,-0.7065171,-0.70041022,0.71374051,0,0)"
+       inkscape:transform-center-x="0.58367305"
+       inkscape:transform-center-y="0.15491867" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text6"
+       style="fill:#f9f9f9;-inkscape-font-specification:Sans;font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect7)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(1.8941241,0,0,2.5996137,-444.63751,-1238.0568)"
+       id="text8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans;white-space:pre;shape-inside:url(#rect8);fill:#f9f9f9"><tspan
+         x="239.23242"
+         y="493.97461"
+         id="tspan4"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
+           id="tspan1">FD</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text9"
+       style="fill:#1a1a1a;-inkscape-font-specification:Sans;font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect9)" />
+  </g>
+</svg>
